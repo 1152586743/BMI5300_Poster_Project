@@ -29,7 +29,7 @@ Set the Gemini API key:
 - Preferred: `export GEMINI_API_KEY="..."` (or set in Colab secrets)
 - The notebook also prompts if the env var is missing.
 
-Input Data
+Input Data (in BMI5300_Team_Bohr_References_Packet.zip)
 ----------
 Place **6 PDFs** in `./BMI5300_Project/`, e.g.:
 - `Data Interoperability in Context- The Importance of Open-Source Implementations When Choosing Open Standards.pdf`
